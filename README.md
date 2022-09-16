@@ -59,5 +59,4 @@ Finally, both services will be running and you can use the app.
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-"# notes-app" 
-# notes-app-project
+
